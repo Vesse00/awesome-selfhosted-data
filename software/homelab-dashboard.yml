@@ -1,0 +1,12 @@
+name: Homelab Dashboard
+description: Modern, customizable homelab control panel with Docker auto-discovery, multi-tab layout, and global command palette.
+website_url: https://github.com/Vesse00/homelab-dashboard
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Personal Dashboards
+source_code_url: https://github.com/Vesse00/homelab-dashboard
+archived: false
